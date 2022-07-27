@@ -1,4 +1,5 @@
 // No cambies los nombres de las funciones.
+//
 
 function deObjetoAmatriz( objeto ){
   // Escribe una función que convierta un objeto en una matriz, donde cada elemento representa 
